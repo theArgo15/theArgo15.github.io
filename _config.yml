@@ -76,13 +76,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Evolve Additive Solutions
+        link: Evolveadditive.com
+        # link_text: Evolve
+        sub_title: Senior Mechanical Engineer
+        caption: April 2022 - Present
+        quote: >
+          Bringing cutting edge additive manufacturing technology to market
+        description: | # this will include new lines to allow paragraphs
+            Core team member working on SVP platform
+      - layout: left
         title: Cummins Power Generation
         link: Cummins.com
         # link_text: cummins.com
         sub_title: Senior Mechanical Engineer, Engineering to Order (ETO)
         caption: August 2020 - April 2022
         quote: >
-          Engineering to order means creating special engineering solutions on accelerated timelines fir strategic customers on a global scope
+          Engineering to order means creating special engineering solutions on accelerated timelines for strategic customers on a global scope
         description: | # this will include new lines to allow paragraphs
             Primary manager of all projects coming out of the ETO group: tracking orders, release processes, customer feedback, and prioritizing projects based on risk, development timelines, supplier lead-times and potential future sales.
 
