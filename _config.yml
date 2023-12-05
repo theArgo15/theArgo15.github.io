@@ -46,11 +46,11 @@ linkedin_username: donald-anthony-witt
 
 # About Section
 # about_title: About Me
-about_profile_image: images/tony.jpg
+about_profile_image: images/tony.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Tony and I'm a senior mechanical engineer. As an experiment, I am making a personal website. Please see my resume below, and reach out via email if you are interesting in hearing more.
 
-  I've also learned some <mark>python</mark> and am constantly finding ways to apply that in mechanical engineering.
+  I've also become interested in using python in mechanical engineering. I've automated administrative processes, analyzed and visualized data, and synchronized sensor data so far.
 
 content:
   - title: Projects # Title for the section
@@ -70,7 +70,7 @@ content:
         quote: >
           Three solutions for the price of one
         description: | # this will include new lines to allow paragraphs
-          Envirox needed a portable dilution solution
+          Envirox is a company that makes a concentrated cleaning product, they sponsored a senior design project to create a portable dilution solution that ensures accuracy while being useable and environmentally friendly
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,9 +82,9 @@ content:
         sub_title: Senior Mechanical Engineer
         caption: April 2022 - Present
         quote: >
-          Bringing cutting edge additive manufacturing technology to market
+          Supporting the introduction of a novel 3D printing platform using troubleshooting and analysis competencies while building PM skills
         description: | # this will include new lines to allow paragraphs
-            Core team member working on SVP platform
+            Acted as program manager for service pack releases: six month programs to release and implement newest machine subsystems, processes, materials, and software
       - layout: left
         title: Cummins Power Generation
         link: Cummins.com
