@@ -75,12 +75,28 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: Cretex Medical
+        link:  cretexmedical.com
+        # link_text: Cretex
+        sub_title: NPD Engineer III
+        caption: October 2024 - Present
+        quote: >
+          New Product Development Team helps OEMs bring their medical devices from initial design to prototype
+        description: | # this will include new lines to allow paragraphs
+            Provided design for manufacturability feedback for parts that were designed to be injection molded, stamped metal, laser welded,and other manufacturing methods
+            Led high priority internal project with $400k capital budget to build expertise in deflection coiling to determine manufacturing feasibility of parts to meet a strategic need
+            Managed customer communication, scheduling, and technical execution of customer projects 
+            Supported New Project Implementation team to convert prototype builds to validated manufacturing processes using installation, operational, and process qualifications (IQ,OQ,PQ)
+            Redesigned Tier 1 system to improve project tracking, resource load leveling, and engineer/engineering tech communication 
+            Interviewed and evaluated candidates for 3 positions in collaboration with team manager
+
       - layout: left
         title: Evolve Additive Solutions
         link: Evolveadditive.com
         # link_text: Evolve
         sub_title: Senior Mechanical Engineer
-        caption: April 2022 - Present
+        caption: April 2022 - October 2024
         quote: >
           Supporting the introduction of a novel 3D printing platform using troubleshooting and analysis competencies while building PM skills
         description: | # this will include new lines to allow paragraphs
